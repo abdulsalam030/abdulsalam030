@@ -17,5 +17,14 @@ Here are some ideas to get you started:
 -->
 ![gitProfile](https://user-images.githubusercontent.com/97962493/193246390-4c5c1a18-cfa3-407f-ad0c-bfb7ac4d670a.gif)
 
+   
+   
+   ### About Me
+- 🔭 I work with JavaScript,ReactJs
+- 🌱 I’m currently learning more on Javascript, ReactRedux,ReactContext and TailWind Css.
+-  👯 I’m looking to collaborate on Projects/Ideas with Junior Developers.
+- 📫 How to reach me: abdulsalamopeyemi030@gmail.com
+- ⚡ Fun fact: I love playing VideoGames/Console.
+
 
 
