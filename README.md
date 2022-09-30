@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: abdulsalamopeyemi030@gmail.com
 - ⚡ Fun fact: I love playing VideoGames/Console.
 
+<h2 align="left">Languages and Tools:</h2>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,next,vscode,cs,dotnet,bootstrap,flutter,github,solidity)](https://skillicons.dev)
   
 
