@@ -1,4 +1,5 @@
 ### Hi there 👋
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=FrontEnd+Developer+;Web+Developer;)](https://git.io/typing-svg)
 
 <!--
 **abdulsalam030/abdulsalam030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![gitProfile](https://user-images.githubusercontent.com/97962493/193246390-4c5c1a18-cfa3-407f-ad0c-bfb7ac4d670a.gif)
+
+
+
