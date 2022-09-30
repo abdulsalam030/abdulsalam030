@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Abdulateef 👋
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=FrontEnd+Developer+;Web+Developer;)](https://git.io/typing-svg)
 
 <!--
