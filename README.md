@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,cs,bootstrap,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,bootstrap,github,git)](https://skillicons.dev)
   
 
 
