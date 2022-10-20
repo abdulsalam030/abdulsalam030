@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 <p align="center">
 <a  href="https://github.com/abdulsalam030"><img alt="Abdul-Salam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdulsalam030&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="45%" /></a> 
 <a  href="http://www.github.com/abdulsalam030"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulsalam030&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>
-<!-- <a  align="center"href="https://github.com/abdulsalam030"><img alt="Abdul-Salam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalam030&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a> -->
+ <a  align="center"href="https://github.com/abdulsalam030"><img alt="Abdul-Salam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalam030&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a> 
 
   </p>
