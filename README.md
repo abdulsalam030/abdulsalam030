@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    
    ### About Me
 - 🔭 I work with JavaScript,ReactJs
-- 🌱 I’m currently learning more on Javascript, ReactRedux,ReactContext and TailWind Css.
+- 🌱 I’m currently learning more on Javascript, ReactRedux and ReactContext.
 -  👯 I’m looking to collaborate on Projects/Ideas with Other Developers.
 - 📫 How to reach me: abdulsalamopeyemi030@gmail.com
 - ⚡ Fun fact: I love playing VideoGames/Console.
